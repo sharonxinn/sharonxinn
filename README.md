@@ -1,11 +1,26 @@
-<h1 align="center">Hi 👋, I'm Mui Rui Xin</h1>
-<h3 align="center">A computer science student from Malaysia. I'm passionate about data analysis and machine learning, and I'm always on the lookout of opportunities to level up my skills and knowledge.</h3>
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=900&size=35&duration=4000&pause=200&color=C486F7&vCenter=true&random=false&width=500&height=70&lines=%F0%9F%91%8BHello+GitHub+Community!;%F0%9F%91%8BHello+Komuniti+GitHub!;%F0%9F%91%8B%E4%BD%A0%E5%A5%BD+GitHub+%E7%A4%BE%E5%8C%BA!;%E0%AE%B5%E0%AE%A3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D+GitHub+%E0%AE%9A%E0%AE%AE%E0%AF%82%E0%AE%95%E0%AE%AE%E0%AF%8D;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+GitHub+%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%9E%85%EB%8B%88%EB%8B%A4;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81GitHub+%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3;bonjour+la+communaut%C3%A9+GitHub" alt="Typing SVG" /></a>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharonxinn&label=Profile%20views&color=0e75b6&style=flat" alt="sharonxinn" /> </p>
+Hey there, I'm a passionate computer science student from Malaysia.
 
-- 🌱 I’m currently learning **C++**
+<br></br>
 
-- 📫 How to reach me **ruixinmui9278@gmail.com**
+<section>
+  <h2>💻 About Me</h2>
+<ul>
+  <li>👀 I have a strong passion for data science, including data analysis, machine learning, and uncovering insights from data.</li>
+
+  <li>🌱 I’m constantly learning from my peers, seniors, and the amazing tech community around me to improve my skills.</li>
+
+  <li>💞️ I’m excited to collaborate with others on innovative projects and actively participate in tech competitions to challenge myself and grow.</li>
+  
+  <li>🎞️ I enjoy reading and watching movies during my free time.</li>
+
+</ul>
+</section>
+
+<br></br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
