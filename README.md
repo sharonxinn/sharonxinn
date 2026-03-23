@@ -2,7 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=900&size=35&duration=4000&pause=200&color=C486F7&vCenter=true&random=false&width=500&height=70&lines=%F0%9F%91%8BHello+GitHub+Community!;%F0%9F%91%8BHello+Komuniti+GitHub!;%F0%9F%91%8B%E4%BD%A0%E5%A5%BD+GitHub+%E7%A4%BE%E5%8C%BA!;%E0%AE%B5%E0%AE%A3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D+GitHub+%E0%AE%9A%E0%AE%AE%E0%AF%82%E0%AE%95%E0%AE%AE%E0%AF%8D;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+GitHub+%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%9E%85%EB%8B%88%EB%8B%A4;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81GitHub+%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3;bonjour+la+communaut%C3%A9+GitHub" alt="Typing SVG" /></a>
 </h1>
 
-Hey there, I'm a passionate computer science student from Malaysia.
+Hey there, I'm a passionate data science student who have a strong interest in data analysis. Will like to begin my career with a data analyst position.
 
 <br></br>
 
@@ -15,7 +15,7 @@ Hey there, I'm a passionate computer science student from Malaysia.
 
   <li>💞️ I’m excited to collaborate with others on innovative projects and actively participate in tech competitions to challenge myself and grow.</li>
   
-  <li>🎞️ I enjoy reading and watching movies during my free time.</li>
+  <li>🎞️ I enjoy reading and watching movies especially Marvel movies during my free time.</li>
 
 </ul>
 </section>
